@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luismigrd aka Jaku
+- 👋 Hi, I’m @luismigrd
 - 👀 I’m interested in music, development and gamming
 - 🌱 I’m currently learning netcore and angular
 - 💞️ I’m looking to collaborate on front projects
