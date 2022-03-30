@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luismigrd
 - 👀 I’m interested in music, development and gamming
-- 🌱 I’m currently learning netcore and angular
+- 🌱 I’m currently working with netcore and angular
 - 💞️ I’m looking to collaborate on front projects
 - 📫 How to reach me: contact me on luismigrd@outlook.com
 
